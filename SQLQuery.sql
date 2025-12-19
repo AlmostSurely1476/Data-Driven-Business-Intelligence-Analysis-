@@ -1,4 +1,3 @@
-# SQL Scripts for Data-Driven Business Intelligence Analysis
 -- ============================================================================
 -- OLIST E-COMMERCE ANALYSIS
 -- Part 1: Executive Dashboard
